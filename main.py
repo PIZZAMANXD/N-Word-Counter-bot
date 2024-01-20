@@ -40,4 +40,4 @@ async def on_message(message):
             json_file.write(json_data)
             json_file.close()
 
-client.run('MTE4Njk5MzI4MzAzODE5NTc1Mw.GMkPfb.M9gpb13wXmhRutcor1Cvj3ab5qsVKIFUtkJMMs')
+client.run('BOT_TOKEN')
